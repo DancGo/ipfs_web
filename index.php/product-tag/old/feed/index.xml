@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>old &#8211; DanceGo`Blog</title>
+	<atom:link href="/index.php/product-tag/old/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>又一个WordPress站点</description>
+	<lastBuildDate>Thu, 24 Mar 2016 12:12:17 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>old</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[ihot]]></dc:creator>
+		<pubDate>Thu, 24 Mar 2016 12:12:17 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[%d个搜索结果： 默认产品排序 按受关注度排序 按好评度排序 按最新内容排序 按价格从低到高 按价格从高到低  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	%d个搜索结果：</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="商店订单">
+					<option value="menu_order"  selected='selected'>默认产品排序</option>
+					<option value="popularity" >按受关注度排序</option>
+					<option value="rating" >按好评度排序</option>
+					<option value="date" >按最新内容排序</option>
+					<option value="price" >按价格从低到高</option>
+					<option value="price-desc" >按价格从高到低</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-989 status-publish first instock product_cat-jewelry product_cat-mens product_tag-maker product_tag-old has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="/index.php/product/old-photomaker/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_41OTX8QXSK-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_41OTX8QXSK-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_41OTX8QXSK-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_41OTX8QXSK-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Old PhotoMaker</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>89.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>99.00</bdi></span></span>
+</a><a href="/index.php/product/old-photomaker/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="989" data-product_sku="" aria-label="为&ldquo;Old PhotoMaker&rdquo;选择选项" rel="nofollow">选择选项</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

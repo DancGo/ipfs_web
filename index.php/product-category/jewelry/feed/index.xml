@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jewelry &#8211; DanceGo`Blog</title>
+	<atom:link href="/index.php/product-category/jewelry/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>又一个WordPress站点</description>
+	<lastBuildDate>Thu, 24 Mar 2016 12:12:17 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Jewelry</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[ihot]]></dc:creator>
+		<pubDate>Thu, 24 Mar 2016 12:12:17 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Shop online at MaxStore for the world&#8217;s finest je [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="term-description"><p>Shop online at MaxStore for the world&#8217;s finest jewellery.</p>
+</div><div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	搜索结果 6：</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="商店订单">
+					<option value="menu_order"  selected='selected'>默认产品排序</option>
+					<option value="popularity" >按受关注度排序</option>
+					<option value="rating" >按好评度排序</option>
+					<option value="date" >按最新内容排序</option>
+					<option value="price" >按价格从低到高</option>
+					<option value="price-desc" >按价格从高到低</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-988 status-publish first instock product_cat-jewelry product_cat-mens product_tag-objectiv has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/index.php/product/lenss-beta-one/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Lenss Beta One</h2><div class="star-rating" role="img" aria-label="评分 4.00 &amp;sol; 5"><span style="width:80%">评分 <strong class="rating">4.00</strong> &amp;sol; 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>789.00</bdi></span></span>
+</a><a href="/index.php/product/lenss-beta-one/?add-to-cart=988" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="988" data-product_sku="" aria-label="添加&ldquo;Lenss Beta One&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
+<li class="product type-product post-985 status-publish instock product_cat-fashion product_cat-jewelry product_cat-mens product_cat-womens has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/index.php/product/mobile-xone/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_KQECHSBAOC-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_KQECHSBAOC-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_KQECHSBAOC-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_KQECHSBAOC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Mobile XoNe</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>899.00</bdi></span></span>
+</a><a href="/index.php/product/mobile-xone/?add-to-cart=985" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="985" data-product_sku="" aria-label="添加&ldquo;Mobile XoNe&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
+<li class="product type-product post-933 status-publish instock product_cat-fashion product_cat-jewelry product_cat-mens product_cat-womens has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="/index.php/product/objectiv-alpha/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_MO7PZ7AYIC-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_MO7PZ7AYIC-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_MO7PZ7AYIC-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_MO7PZ7AYIC-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Objectiv Alpha</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>49.00</bdi></span></span>
+</a><a href="/index.php/product/objectiv-alpha/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="933" data-product_sku="" aria-label="为&ldquo;Objectiv Alpha&rdquo;选择选项" rel="nofollow">选择选项</a></li>
+<li class="product type-product post-989 status-publish last instock product_cat-jewelry product_cat-mens product_tag-maker product_tag-old has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="/index.php/product/old-photomaker/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_41OTX8QXSK-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_41OTX8QXSK-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_41OTX8QXSK-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_41OTX8QXSK-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Old PhotoMaker</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>89.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>99.00</bdi></span></span>
+</a><a href="/index.php/product/old-photomaker/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="989" data-product_sku="" aria-label="为&ldquo;Old PhotoMaker&rdquo;选择选项" rel="nofollow">选择选项</a></li>
+<li class="product type-product post-990 status-publish first instock product_cat-jewelry product_cat-mens has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/index.php/product/phone-dual-uno/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_08TH4N0XCS-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_08TH4N0XCS-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_08TH4N0XCS-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_08TH4N0XCS-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Phone Dual Uno</h2><div class="star-rating" role="img" aria-label="评分 5.00 &amp;sol; 5"><span style="width:100%">评分 <strong class="rating">5.00</strong> &amp;sol; 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>255.00</bdi></span></span>
+</a><a href="/index.php/product/phone-dual-uno/?add-to-cart=990" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="990" data-product_sku="" aria-label="添加&ldquo;Phone Dual Uno&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
+<li class="product type-product post-987 status-publish instock product_cat-jewelry product_cat-womens has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="/index.php/product/photomaker/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_CZ9XHLROWX-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_CZ9XHLROWX-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_CZ9XHLROWX-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_CZ9XHLROWX-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">PhotoMaker</h2><div class="star-rating" role="img" aria-label="评分 4.00 &amp;sol; 5"><span style="width:80%">评分 <strong class="rating">4.00</strong> &amp;sol; 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>899.00</bdi></span></span>
+</a><a href="/index.php/product/photomaker/?add-to-cart=987" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="987" data-product_sku="" aria-label="添加&ldquo;PhotoMaker&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
