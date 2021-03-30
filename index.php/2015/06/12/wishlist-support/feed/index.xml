@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《Wishlist Support》的评论	</title>
-	<atom:link href="/index.php/2015/06/12/wishlist-support/feed/" rel="self" type="application/rss+xml" />
-	<link>/index.php/2015/06/12/wishlist-support/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>又一个WordPress站点</description>
 	<lastBuildDate>Fri, 12 Jun 2015 08:27:39 +0000</lastBuildDate>
 	<sy:updatePeriod>

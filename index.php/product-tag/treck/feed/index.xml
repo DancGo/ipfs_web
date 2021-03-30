@@ -9,8 +9,8 @@
 
 <channel>
 	<title>treck &#8211; DanceGo`Blog</title>
-	<atom:link href="/index.php/product-tag/treck/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>又一个WordPress站点</description>
 	<lastBuildDate>Thu, 24 Mar 2016 12:12:17 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -43,11 +43,11 @@
 	</form>
 <ul class="products columns-4">
 <li class="product type-product post-674 status-publish first instock product_cat-fashion product_cat-womens product_tag-mountain product_tag-treck has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-	<a href="/index.php/product/terrain-mountain/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<a href="./../../../product/terrain-mountain/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 	<span class="onsale">促销中</span>
-	<img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_QXVSHD5FLF-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_QXVSHD5FLF-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_QXVSHD5FLF-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_QXVSHD5FLF-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Terrain Mountain</h2>
+	<img width="300" height="300" src="./../../../../wp-content/uploads/2019/02/StockSnap_QXVSHD5FLF-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="./../../../../wp-content/uploads/2019/02/StockSnap_QXVSHD5FLF-300x300.jpg 300w, ./../../../../wp-content/uploads/2019/02/StockSnap_QXVSHD5FLF-100x100.jpg 100w, ./../../../../wp-content/uploads/2019/02/StockSnap_QXVSHD5FLF-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Terrain Mountain</h2>
 	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>199.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>159.00</bdi></span></ins></span>
-</a><a href="/index.php/product/terrain-mountain/?add-to-cart=674" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="674" data-product_sku="" aria-label="添加&ldquo;Terrain Mountain&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
+</a><a href="./../../../product/terrain-mountain/index.html?add-to-cart=674" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="674" data-product_sku="" aria-label="添加&ldquo;Terrain Mountain&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
 </ul>
 </div>]]></content:encoded>
 					

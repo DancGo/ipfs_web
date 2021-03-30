@@ -1038,7 +1038,7 @@ button.owl-thumb-item {
 */
 
 #cta {
-    background: url(/wp-content/themes/img/bg/cta-bg.jpg);
+    background: url(./../img/bg/cta-bg.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

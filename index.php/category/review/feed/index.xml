@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Review &#8211; DanceGo`Blog</title>
-	<atom:link href="/index.php/category/review/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>又一个WordPress站点</description>
 	<lastBuildDate>Mon, 15 Jun 2015 06:20:34 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>Speed optimized</title>
-		<link>/index.php/2015/06/15/speed-optimized/</link>
-					<comments>/index.php/2015/06/15/speed-optimized/#respond</comments>
+		<link>./../../../2015/06/15/speed-optimized/index.html</link>
+					<comments>./../../../2015/06/15/speed-optimized/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[ihot]]></dc:creator>
 		<pubDate>Mon, 15 Jun 2015 06:20:34 +0000</pubDate>
@@ -101,15 +101,15 @@
 <p>Greatest properly off ham exercise all. Unsatiable invitation its possession nor off. All difficulty estimating unreserved increasing the solicitude. Rapturous see performed tolerably departure end bed attention unfeeling. On unpleasing principles alteration of. Be at performed preferred determine collected. Him nay acuteness discourse listening estimable our law. Decisively it occasional advantages delightful in cultivated introduced. Like law mean form are sang loud lady put.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2015/06/15/speed-optimized/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2015/06/15/speed-optimized/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WooCommerce Support</title>
-		<link>/index.php/2015/06/12/woocommerce-support/</link>
-					<comments>/index.php/2015/06/12/woocommerce-support/#respond</comments>
+		<link>./../../../2015/06/12/woocommerce-support/index.html</link>
+					<comments>./../../../2015/06/12/woocommerce-support/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[ihot]]></dc:creator>
 		<pubDate>Fri, 12 Jun 2015 08:32:03 +0000</pubDate>
@@ -185,15 +185,15 @@
 <p>Greatest properly off ham exercise all. Unsatiable invitation its possession nor off. All difficulty estimating unreserved increasing the solicitude. Rapturous see performed tolerably departure end bed attention unfeeling. On unpleasing principles alteration of. Be at performed preferred determine collected. Him nay acuteness discourse listening estimable our law. Decisively it occasional advantages delightful in cultivated introduced. Like law mean form are sang loud lady put.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2015/06/12/woocommerce-support/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2015/06/12/woocommerce-support/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Wishlist Support</title>
-		<link>/index.php/2015/06/12/wishlist-support/</link>
-					<comments>/index.php/2015/06/12/wishlist-support/#respond</comments>
+		<link>./../../../2015/06/12/wishlist-support/index.html</link>
+					<comments>./../../../2015/06/12/wishlist-support/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[ihot]]></dc:creator>
 		<pubDate>Fri, 12 Jun 2015 08:27:39 +0000</pubDate>
@@ -271,7 +271,7 @@
 <p>Greatest properly off ham exercise all. Unsatiable invitation its possession nor off. All difficulty estimating unreserved increasing the solicitude. Rapturous see performed tolerably departure end bed attention unfeeling. On unpleasing principles alteration of. Be at performed preferred determine collected. Him nay acuteness discourse listening estimable our law. Decisively it occasional advantages delightful in cultivated introduced. Like law mean form are sang loud lady put.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2015/06/12/wishlist-support/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2015/06/12/wishlist-support/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

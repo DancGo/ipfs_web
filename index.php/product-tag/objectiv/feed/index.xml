@@ -9,8 +9,8 @@
 
 <channel>
 	<title>objectiv &#8211; DanceGo`Blog</title>
-	<atom:link href="/index.php/product-tag/objectiv/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>又一个WordPress站点</description>
 	<lastBuildDate>Thu, 24 Mar 2016 12:12:17 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -43,9 +43,9 @@
 	</form>
 <ul class="products columns-4">
 <li class="product type-product post-988 status-publish first instock product_cat-jewelry product_cat-mens product_tag-objectiv has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="/index.php/product/lenss-beta-one/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Lenss Beta One</h2><div class="star-rating" role="img" aria-label="评分 4.00 &amp;sol; 5"><span style="width:80%">评分 <strong class="rating">4.00</strong> &amp;sol; 5</span></div>
+	<a href="./../../../product/lenss-beta-one/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="./../../../../wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="./../../../../wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-300x300.jpg 300w, ./../../../../wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-100x100.jpg 100w, ./../../../../wp-content/uploads/2019/02/StockSnap_0FMO7ARXDL-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Lenss Beta One</h2><div class="star-rating" role="img" aria-label="评分 4.00 &amp;sol; 5"><span style="width:80%">评分 <strong class="rating">4.00</strong> &amp;sol; 5</span></div>
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>789.00</bdi></span></span>
-</a><a href="/index.php/product/lenss-beta-one/?add-to-cart=988" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="988" data-product_sku="" aria-label="添加&ldquo;Lenss Beta One&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
+</a><a href="./../../../product/lenss-beta-one/index.html?add-to-cart=988" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="988" data-product_sku="" aria-label="添加&ldquo;Lenss Beta One&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
 </ul>
 </div>]]></content:encoded>
 					

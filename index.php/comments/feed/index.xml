@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	“DanceGo`Blog”的评论	</title>
-	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>又一个WordPress站点</description>
 	<lastBuildDate>Thu, 18 Mar 2021 12:20:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Themes4WP对《Lenss Beta One》的评论		</title>
-		<link>/index.php/product/lenss-beta-one/#comment-3</link>
+		<link>./../../product/lenss-beta-one/index.html#comment-3</link>
 
 		<dc:creator><![CDATA[Themes4WP]]></dc:creator>
 		<pubDate>Fri, 18 Dec 2015 23:11:29 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Themes4WP对《PhotoMaker》的评论		</title>
-		<link>/index.php/product/photomaker/#comment-2</link>
+		<link>./../../product/photomaker/index.html#comment-2</link>
 
 		<dc:creator><![CDATA[Themes4WP]]></dc:creator>
 		<pubDate>Fri, 18 Dec 2015 23:11:07 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<item>
 		<title>
 		Themes4WP对《Phone Dual Uno》的评论		</title>
-		<link>/index.php/product/phone-dual-uno/#comment-4</link>
+		<link>./../../product/phone-dual-uno/index.html#comment-4</link>
 
 		<dc:creator><![CDATA[Themes4WP]]></dc:creator>
 		<pubDate>Fri, 18 Dec 2015 23:10:52 +0000</pubDate>

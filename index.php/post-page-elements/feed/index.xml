@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《Post / Page elements》的评论	</title>
-	<atom:link href="/index.php/post-page-elements/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>又一个WordPress站点</description>
 	<lastBuildDate>Thu, 11 Jun 2015 20:33:46 +0000</lastBuildDate>
 	<sy:updatePeriod>

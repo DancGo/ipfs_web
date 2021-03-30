@@ -9,8 +9,8 @@
 
 <channel>
 	<title>man &#8211; DanceGo`Blog</title>
-	<atom:link href="/index.php/product-tag/man/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>又一个WordPress站点</description>
 	<lastBuildDate>Thu, 24 Mar 2016 12:12:17 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -43,9 +43,9 @@
 	</form>
 <ul class="products columns-4">
 <li class="product type-product post-769 status-publish first instock product_cat-fashion product_cat-mens product_cat-womens product_tag-image-flipper product_tag-man product_tag-shoes product_tag-sport has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes">
-	<a href="/index.php/product/running-woman/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_O8LEZTLUWB-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_O8LEZTLUWB-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_O8LEZTLUWB-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_O8LEZTLUWB-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Running Woman</h2>
+	<a href="./../../../product/running-woman/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="./../../../../wp-content/uploads/2019/02/StockSnap_O8LEZTLUWB-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="./../../../../wp-content/uploads/2019/02/StockSnap_O8LEZTLUWB-300x300.jpg 300w, ./../../../../wp-content/uploads/2019/02/StockSnap_O8LEZTLUWB-100x100.jpg 100w, ./../../../../wp-content/uploads/2019/02/StockSnap_O8LEZTLUWB-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Running Woman</h2>
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>199.00</bdi></span></span>
-</a><a href="/index.php/product/running-woman/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="769" data-product_sku="" aria-label="为&ldquo;Running Woman&rdquo;选择选项" rel="nofollow">选择选项</a></li>
+</a><a href="./../../../product/running-woman/index.html" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="769" data-product_sku="" aria-label="为&ldquo;Running Woman&rdquo;选择选项" rel="nofollow">选择选项</a></li>
 </ul>
 </div>]]></content:encoded>
 					

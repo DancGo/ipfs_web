@@ -9,8 +9,8 @@
 
 <channel>
 	<title>phone &#8211; DanceGo`Blog</title>
-	<atom:link href="/index.php/product-tag/phone/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>又一个WordPress站点</description>
 	<lastBuildDate>Thu, 24 Mar 2016 12:12:17 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -43,11 +43,11 @@
 	</form>
 <ul class="products columns-4">
 <li class="product type-product post-986 status-publish first instock product_cat-fashion product_cat-womens product_tag-phone product_tag-xone has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-	<a href="/index.php/product/mobile-xone-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<a href="./../../../product/mobile-xone-2/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 	<span class="onsale">促销中</span>
-	<img width="300" height="300" src="/wp-content/uploads/2019/02/StockSnap_IR28H3CMQG-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2019/02/StockSnap_IR28H3CMQG-300x300.jpg 300w, /wp-content/uploads/2019/02/StockSnap_IR28H3CMQG-100x100.jpg 100w, /wp-content/uploads/2019/02/StockSnap_IR28H3CMQG-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Mobile XoNE 2</h2>
+	<img width="300" height="300" src="./../../../../wp-content/uploads/2019/02/StockSnap_IR28H3CMQG-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="./../../../../wp-content/uploads/2019/02/StockSnap_IR28H3CMQG-300x300.jpg 300w, ./../../../../wp-content/uploads/2019/02/StockSnap_IR28H3CMQG-100x100.jpg 100w, ./../../../../wp-content/uploads/2019/02/StockSnap_IR28H3CMQG-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Mobile XoNE 2</h2>
 	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>799.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>699.00</bdi></span></ins></span>
-</a><a href="/index.php/product/mobile-xone-2/?add-to-cart=986" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="986" data-product_sku="" aria-label="添加&ldquo;Mobile XoNE 2&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
+</a><a href="./../../../product/mobile-xone-2/index.html?add-to-cart=986" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="986" data-product_sku="" aria-label="添加&ldquo;Mobile XoNE 2&rdquo; 到您的购物车" rel="nofollow">加入购物车</a></li>
 </ul>
 </div>]]></content:encoded>
 					
